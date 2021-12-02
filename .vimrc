@@ -51,4 +51,4 @@ set cindent
 set tabstop=2
 
 " 设置默认编码
-set fenc=utf-8
+set encoding=utf-8
